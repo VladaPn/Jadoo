@@ -492,6 +492,7 @@ z-index: -2;
         z-index: 2;
         right: -120px;
         bottom: -120px;
+        opacity: 1;
     }
 }
 .subscribe-section button{
